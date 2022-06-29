@@ -3,6 +3,7 @@ module github.com/larbert/demo/go/parseExcelToMysql
 go 1.18
 
 require (
+	github.com/go-sql-driver/mysql v1.6.0
 	github.com/shopspring/decimal v1.3.1
 	github.com/xuri/excelize/v2 v2.6.0
 )
